@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PotfolioArtem/static/css/main.0942b93e.chunk.css",
-    "main.js": "/PotfolioArtem/static/js/main.468fa7c8.chunk.js",
-    "main.js.map": "/PotfolioArtem/static/js/main.468fa7c8.chunk.js.map",
+    "main.css": "/PotfolioArtem/static/css/main.182b5217.chunk.css",
+    "main.js": "/PotfolioArtem/static/js/main.021ddc92.chunk.js",
+    "main.js.map": "/PotfolioArtem/static/js/main.021ddc92.chunk.js.map",
     "runtime-main.js": "/PotfolioArtem/static/js/runtime-main.893e0149.js",
     "runtime-main.js.map": "/PotfolioArtem/static/js/runtime-main.893e0149.js.map",
     "static/js/2.fa23c0c9.chunk.js": "/PotfolioArtem/static/js/2.fa23c0c9.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.efe865d6.chunk.js": "/PotfolioArtem/static/js/3.efe865d6.chunk.js",
     "static/js/3.efe865d6.chunk.js.map": "/PotfolioArtem/static/js/3.efe865d6.chunk.js.map",
     "index.html": "/PotfolioArtem/index.html",
-    "static/css/main.0942b93e.chunk.css.map": "/PotfolioArtem/static/css/main.0942b93e.chunk.css.map",
+    "static/css/main.182b5217.chunk.css.map": "/PotfolioArtem/static/css/main.182b5217.chunk.css.map",
     "static/js/2.fa23c0c9.chunk.js.LICENSE.txt": "/PotfolioArtem/static/js/2.fa23c0c9.chunk.js.LICENSE.txt",
     "static/media/1.b0da8416.png": "/PotfolioArtem/static/media/1.b0da8416.png",
     "static/media/Arrow.a2ef9b05.svg": "/PotfolioArtem/static/media/Arrow.a2ef9b05.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.893e0149.js",
     "static/js/2.fa23c0c9.chunk.js",
-    "static/css/main.0942b93e.chunk.css",
-    "static/js/main.468fa7c8.chunk.js"
+    "static/css/main.182b5217.chunk.css",
+    "static/js/main.021ddc92.chunk.js"
   ]
 }
