@@ -1,0 +1,32 @@
+.content {
+  height: 560px;
+  width: 384px;
+  border: 1px solid rgba(12, 12, 12, 0.15);
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.image {
+  width: 344px;
+  height: 240px;
+}
+.skill__item {
+  padding: 13px 12px;
+  color: rgba(12, 12, 12, 0.4);
+  font-style: normal;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 22px;
+  background: rgba(12, 12, 12, 0.05);
+}
+.title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 33px;
+}
+.decription {
+  font-size: 16px;
+  color: rgba(12, 12, 12, 0.5);
+}
