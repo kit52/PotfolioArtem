@@ -1,3 +1,49 @@
 #root {
   height: 100%;
 }
+.App {
+  height: 100%;
+  transition: 30ms;
+}
+.styles-module_item-provider__YgMwz {
+  cursor: default !important;
+}
+button[data-direction] {
+  top: calc(85% - 17px);
+  right: 44%;
+  width: 90px;
+  height: 50px;
+  display: block;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  background: url("./assets/img/icons/Arrow3.svg") no-repeat center;
+}
+@media (max-width: 1704px) {
+  button[data-direction] {
+    right: 40%;
+  }
+}
+@media (max-width: 1024px) {
+  button[data-direction] {
+    right: 35%;
+  }
+}
+@media (max-width: 660px) {
+  button[data-direction] {
+    right: 20%;
+  }
+}
+button[data-direction]:hover {
+  background: url("./assets/img/icons/Arrow.svg") no-repeat center;
+}
+
+button[data-direction="left"] {
+  /* Left button */
+
+  transform: rotateZ(180deg);
+  right: 50%;
+}
+button[data-direction="right"] {
+  /* Right button */
+}

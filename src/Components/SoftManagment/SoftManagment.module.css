@@ -1,0 +1,28 @@
+.wrapper {
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 48px;
+  padding-bottom: 32px;
+}
+.title {
+  font-family: "Roboto";
+  margin-top: 64px;
+  margin-bottom: 64px;
+  font-weight: 500;
+  font-size: 48px;
+}
+.container {
+  margin-bottom: 64px;
+}
+.text {
+  font-family: "Roboto Slab";
+  color: rgba(12, 12, 12, 0.5);
+}
+.text_bold {
+  color: rgba(0, 0, 0, 0.705);
+}
+.link {
+  font-family: "Roboto Slab";
+  color: #0000ff;
+  text-decoration: underline;
+}

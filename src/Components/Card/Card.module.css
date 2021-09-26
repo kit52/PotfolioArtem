@@ -1,32 +1,65 @@
 .content {
   height: 560px;
   width: 384px;
-  border: 1px solid rgba(12, 12, 12, 0.15);
+  border: 1px solid rgba(12, 12, 12, 0.1);
   display: flex;
   flex-direction: column;
   padding: 20px;
 }
+.active:hover {
+  cursor: pointer;
+  background: #0c0c0c;
+  color: #ffffff;
+  cursor: pointer;
+}
+.active:hover > a {
+  color: #ffffff;
+}
+.active:hover .skill__item {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+}
+.active:hover .decription {
+  color: rgba(255, 255, 255, 0.6);
+}
 .image {
   width: 344px;
   height: 240px;
+  margin-bottom: 32px;
 }
 .skill__item {
   padding: 13px 12px;
   color: rgba(12, 12, 12, 0.4);
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
-  font-size: 19px;
+  font-size: 18px;
   line-height: 22px;
   background: rgba(12, 12, 12, 0.05);
+  margin-right: 16px;
 }
 .title {
-  font-family: Roboto;
   font-style: normal;
   font-weight: 500;
   font-size: 28px;
   line-height: 33px;
+  margin: 0;
+  margin-bottom: 24px;
 }
 .decription {
   font-size: 16px;
   color: rgba(12, 12, 12, 0.5);
+  font-family: "Roboto Slab", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 21px;
+  margin: 0;
+}
+.decription:first-child {
+  margin-bottom: 24px;
+}
+.skills {
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: row;
 }

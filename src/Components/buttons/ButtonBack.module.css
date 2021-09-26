@@ -1,0 +1,43 @@
+.container {
+  cursor: pointer;
+  width: 146px;
+  height: 64px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(222, 222, 222, 0.5);
+}
+.container:hover .span {
+  animation: anim 0.2s ease-in-out forwards;
+}
+.img {
+  background-color: #0c0c0c;
+}
+.container:hover .img {
+  background-color: #fff;
+}
+.img {
+  width: 88px;
+  height: 24px;
+  top: 30%;
+  z-index: 4;
+  position: absolute;
+  mask-image: url("../../assets/img/icons/ArrowBack.svg");
+}
+.span {
+  transform: translateX(100%);
+  position: relative;
+  width: 100%;
+  height: 64px;
+  z-index: 2;
+  background-color: black;
+}
+@keyframes anim {
+  100% {
+    transform: translateX(0%);
+    transition: 0.2s linear;
+  }
+}

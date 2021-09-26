@@ -1,0 +1,16 @@
+.wrapper {
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 48px;
+  padding-bottom: 32px;
+}
+.title {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 48px;
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
+.container {
+  margin-bottom: 64px;
+}
