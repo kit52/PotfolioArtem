@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/PotfolioArtem/static/css/main.1098b5ba.chunk.css",
-    "main.js": "/PotfolioArtem/static/js/main.d52262cc.chunk.js",
-    "main.js.map": "/PotfolioArtem/static/js/main.d52262cc.chunk.js.map",
-    "runtime-main.js": "/PotfolioArtem/static/js/runtime-main.3c92db4b.js",
-    "runtime-main.js.map": "/PotfolioArtem/static/js/runtime-main.3c92db4b.js.map",
+    "main.css": "/PotfolioArtem/static/css/main.b2a56ffe.chunk.css",
+    "main.js": "/PotfolioArtem/static/js/main.41ea7296.chunk.js",
+    "main.js.map": "/PotfolioArtem/static/js/main.41ea7296.chunk.js.map",
+    "runtime-main.js": "/PotfolioArtem/static/js/runtime-main.3ff864f4.js",
+    "runtime-main.js.map": "/PotfolioArtem/static/js/runtime-main.3ff864f4.js.map",
     "static/css/2.679831fc.chunk.css": "/PotfolioArtem/static/css/2.679831fc.chunk.css",
-    "static/js/2.76933f06.chunk.js": "/PotfolioArtem/static/js/2.76933f06.chunk.js",
-    "static/js/2.76933f06.chunk.js.map": "/PotfolioArtem/static/js/2.76933f06.chunk.js.map",
-    "static/js/3.38658957.chunk.js": "/PotfolioArtem/static/js/3.38658957.chunk.js",
-    "static/js/3.38658957.chunk.js.map": "/PotfolioArtem/static/js/3.38658957.chunk.js.map",
+    "static/js/2.23c3f91c.chunk.js": "/PotfolioArtem/static/js/2.23c3f91c.chunk.js",
+    "static/js/2.23c3f91c.chunk.js.map": "/PotfolioArtem/static/js/2.23c3f91c.chunk.js.map",
+    "static/js/3.6e966d76.chunk.js": "/PotfolioArtem/static/js/3.6e966d76.chunk.js",
+    "static/js/3.6e966d76.chunk.js.map": "/PotfolioArtem/static/js/3.6e966d76.chunk.js.map",
     "index.html": "/PotfolioArtem/index.html",
     "static/css/2.679831fc.chunk.css.map": "/PotfolioArtem/static/css/2.679831fc.chunk.css.map",
-    "static/css/main.1098b5ba.chunk.css.map": "/PotfolioArtem/static/css/main.1098b5ba.chunk.css.map",
-    "static/js/2.76933f06.chunk.js.LICENSE.txt": "/PotfolioArtem/static/js/2.76933f06.chunk.js.LICENSE.txt",
+    "static/css/main.b2a56ffe.chunk.css.map": "/PotfolioArtem/static/css/main.b2a56ffe.chunk.css.map",
+    "static/js/2.23c3f91c.chunk.js.LICENSE.txt": "/PotfolioArtem/static/js/2.23c3f91c.chunk.js.LICENSE.txt",
     "static/media/1.b0da8416.png": "/PotfolioArtem/static/media/1.b0da8416.png",
     "static/media/1step.6bb3eadd.png": "/PotfolioArtem/static/media/1step.6bb3eadd.png",
     "static/media/2.51560891.png": "/PotfolioArtem/static/media/2.51560891.png",
@@ -21,15 +21,17 @@
     "static/media/3.7e732873.png": "/PotfolioArtem/static/media/3.7e732873.png",
     "static/media/3step.00321ba3.png": "/PotfolioArtem/static/media/3step.00321ba3.png",
     "static/media/3step2.0e6c7885.png": "/PotfolioArtem/static/media/3step2.0e6c7885.png",
+    "static/media/5.b5411206.png": "/PotfolioArtem/static/media/5.b5411206.png",
+    "static/media/5step.3fe86792.png": "/PotfolioArtem/static/media/5step.3fe86792.png",
     "static/media/App.css": "/PotfolioArtem/static/media/Arrow3.2148c863.svg",
     "static/media/ButtonBack.module.css": "/PotfolioArtem/static/media/ArrowBack.2588ae1b.svg",
     "static/media/logo.6ce24c58.svg": "/PotfolioArtem/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c92db4b.js",
+    "static/js/runtime-main.3ff864f4.js",
     "static/css/2.679831fc.chunk.css",
-    "static/js/2.76933f06.chunk.js",
-    "static/css/main.1098b5ba.chunk.css",
-    "static/js/main.d52262cc.chunk.js"
+    "static/js/2.23c3f91c.chunk.js",
+    "static/css/main.b2a56ffe.chunk.css",
+    "static/js/main.41ea7296.chunk.js"
   ]
 }
